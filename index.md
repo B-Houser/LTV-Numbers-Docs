@@ -1,4 +1,4 @@
-### Setup Instructions
+### Data Syncing Instructions
 - [Keap](https://b-houser.github.io/LTV-Numbers-Docs/keap)
 
 
