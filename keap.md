@@ -1,6 +1,5 @@
-# Keap Data Sync
+# Keap Data Sync Procedure
 
-## Procedure
 1. Log into your LTV Numbers account at [https://app.ltvnumbers.com/login](https://app.ltvnumbers.com/login)
 2. Go to the Settings page and click "Connect With Keap"
 3. Log into your Keap account if you're not already logged in
