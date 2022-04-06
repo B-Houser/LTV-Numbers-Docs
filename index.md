@@ -1,6 +1,7 @@
 ### Data Syncing Instructions
 - [Keap](https://b-houser.github.io/LTV-Numbers-Docs/keap)
 
+---
 
 ### The LTV Numbers app is available: 
 - At [app.ltvnumbers.com](app.ltvnumbers.com)
