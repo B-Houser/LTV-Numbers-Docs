@@ -7,4 +7,4 @@
 5. Click "Allow"
 6. Click "Sync Data"
 
-The above initiates the data sync and may take some time to complete.
+The above initiates the data syncing process and may take some time to complete.
