@@ -1,5 +1,5 @@
 layout: page
 title: "test2 "
-permalink: /test
+permalink: /test2
 
 # TEST2!?
