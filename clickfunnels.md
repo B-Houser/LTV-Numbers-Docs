@@ -29,7 +29,7 @@ After setting up webhooks to pull in real time sales data, you can import your p
 1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Sales
 2. In the "Showing Sales For" date selector, choose "All Time"
 3. Click the "Download Purchases" button. A popup with a progress bar will appear, indicating that Clickfunnels is preparing your historical sales data as a CSV file.
-  - Note: this process may take some time
+  - Note: this process may take some time to complete
 4. To download your historical sales data, either:
   - Wait until the progress bar finishes, then click the "Download" button and save the CSV file to your computer
   - Check your email for the download link and save the CSV file to your computer
@@ -40,7 +40,7 @@ After setting up webhooks to pull in real time sales data, you can import your p
 2. Click the "Choose File" button
 3. Select the historical sales data CSV from the previous section and click the "Next" button
 4. In the "Choose Format" dropdown, select "Clickfunnels Sales CSV" and click the "Next" button to begin the ingest process
-- Note: this process may take some time
+- Note: this process may take some time to complete
 
 
 ## 3. Add Funnels
