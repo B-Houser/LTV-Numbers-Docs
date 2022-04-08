@@ -1,4 +1,4 @@
-# **Clickfunnels Data Sync Procedure**
+# Clickfunnels Data Sync Procedure
 
 ## 1. Set Up Webhooks
 
