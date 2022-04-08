@@ -4,22 +4,55 @@
 Webhooks pulls your sales data in real time as it comes in and should be set up first before importing historical sales data to avoid gaps in your data
 
 1. [Log into LTV Numbers](https://app.ltvnumbers.com)
-2. In LTV Numbers’ side navigation bar, go to the Settings tab 
+2. In LTV Numbers’ side navigation bar, go to the "Settings" tab 
 3. Click the "Copy" button for your Webhook URL in the “Clickfunnels Integrations” section. This will be your webhook URL for all of your funnels
 4. In a separate browser window or tab, [log into Clickfunnels](https://app.clickfunnels.com/users/sign_in) 
-5. 
-6. 
-7. In Clickfunnels’ top navigation bar, go to Clickfunnels > Funnels
-8. Click on a funnel you want to track 
-9. Click on the "Settings" tab in the upper right
-10. Scroll down to the "Webhooks" section and click "Manage Your Funnel Webhooks"
-11. Click the "+ New Webhook" button
-12. Enter the following information:
+5. In Clickfunnels’ top navigation bar, go to Clickfunnels > Funnels
+6. Click on a funnel you want to track to open it
+7. Click on the "Settings" tab in the upper right
+8. Scroll down to the "Webhooks" section and click "Manage Your Funnel Webhooks"
+9. Click the "+ New Webhook" button
+10. Enter the following information:
   - URL: paste your webhook URL that you copied earlier
   - Adapter: :"json"
-13. Click "Create Funnel Webhook"
-14. Repeat 
+11. Click "Create Funnel Webhook" to create a webhook for this funnel
+12. Repeat steps 5-11 for each funnel you want to track
 
-## Historical Sales Data Import
+## Historical Sales Data
+After setting up webhooks to pull in real time sales data, you can import your past sales
 
-## Clickfunnels Funnel List
+### Export Historical Sales Data From Clickfunnels
+1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Sales
+2. In the "Showing Sales For" date selector, choose "All Time"
+3. Click the "Download Purchases" button. A popup with a progress bar will appear, indicating that Clickfunnels is preparing your historical sales data as a CSV file.
+  - Note: this process may take some time.
+4. To download your historical sales data, either:
+  - Wait until the progress bar finishes, then click the "Download" button and save the CSV file to your computer
+  - Check your email for the download link and save the CSV file to your computer
+
+### Import Clickfunnels Historical Data Into LTV Numbers
+1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
+2. Click the "Choose File" button
+3. Select the historical sales data CSV from the previous section and click the "Next" button
+4. In the "Choose Format" dropdown, select "Clickfunnels Sales CSV" and click the "Next" button to begin the ingest process.
+- Note: this process may take some time.
+
+## Add Funnels to LTV Numbers
+To finalize the connection between LTV Numbers and your funnels, you'll need to add them in LTV Numbers
+
+### Add Funnels Individually
+Use this simple method do add a few funnels, one at a time
+
+1. In LTV Numbers’ side navigation bar, go to the "Settings" tab
+2. Click the "Add Funnel" button in the "Clickfunnels Integrations" section
+3. Enter the "Funnel Name" and "Funnel URL" for each funnel, both of which can be found in the funnel's Settings tab
+  - The "Funnel Name" can be found in the "NAME" field and the "Funnel URL" can be found in the "Share This Funnel URL" field
+ 4. Repeat this process for each funnel 
+
+### Add Funnels As A Batch
+Use this advanced method to add several funnels all at once
+
+1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Funnels
+2. Scroll to the bottom of the page and set the funnels per page to the maximum number
+3. View the page source (right click > view page source or ctrl+u in Chrome-based browsers)
+4. 
