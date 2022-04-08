@@ -62,7 +62,7 @@ Use this simple method do add a few funnels, one at a time
 
 Use this advanced method to add several funnels all at once
 
-#### Page Source Funnels List
+##### Page Source Funnels List
 
 1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Funnels
 2. Scroll to the bottom of the page and set the funnels per page to the maximum number
@@ -73,7 +73,7 @@ Use this advanced method to add several funnels all at once
 6. Save the page source funnel list to your computer as an .html file
 7. Repeat the above steps for each page of funnels in the "Funnels" page of your Clickfunnels account
 
-#### Upload Funnels List 
+##### Upload Funnels List 
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
 3. Select your page source funnel list html file and click the "Next" button
