@@ -1,6 +1,7 @@
 # Clickfunnels Data Sync Procedure
 
-## Webhook Setup 
+## 1. Webhook Setup 
+
 Webhooks pulls your sales data in real time as it comes in and should be set up first before importing historical sales data to avoid gaps in your data
 
 1. [Log into LTV Numbers](https://app.ltvnumbers.com)
@@ -18,10 +19,13 @@ Webhooks pulls your sales data in real time as it comes in and should be set up 
 11. Click "Create Funnel Webhook" to create a webhook for this funnel
 12. Repeat steps 5-11 for each funnel you want to track
 
-## Historical Sales Data
+
+## 2. Historical Sales Data
+
 After setting up webhooks to pull in real time sales data, you can import your past sales
 
 ### Export Historical Sales Data From Clickfunnels
+
 1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Sales
 2. In the "Showing Sales For" date selector, choose "All Time"
 3. Click the "Download Purchases" button. A popup with a progress bar will appear, indicating that Clickfunnels is preparing your historical sales data as a CSV file.
@@ -31,16 +35,20 @@ After setting up webhooks to pull in real time sales data, you can import your p
   - Check your email for the download link and save the CSV file to your computer
 
 ### Import Clickfunnels Historical Data Into LTV Numbers
+
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
 3. Select the historical sales data CSV from the previous section and click the "Next" button
 4. In the "Choose Format" dropdown, select "Clickfunnels Sales CSV" and click the "Next" button to begin the ingest process
 - Note: this process may take some time
 
-## Add Funnels to LTV Numbers
-To finalize the connection between LTV Numbers and your funnels, you'll need to add them in LTV Numbers
+
+## 3. Add Funnels To LTV Numbers
+
+To finalize the connection between LTV Numbers and your funnels, you'll need to add them in LTV Numbers, individually or in a batch
 
 ### Add Funnels Individually
+
 Use this simple method do add a few funnels, one at a time
 
 1. In LTV Numbers’ side navigation bar, go to the "Settings" tab
@@ -49,10 +57,13 @@ Use this simple method do add a few funnels, one at a time
   - The "Funnel Name" can be found in the "NAME" field and the "Funnel URL" can be found in the "Share This Funnel URL" field
  4. Repeat this process for each funnel 
 
+
 ### Add Funnels As A Batch
+
 Use this advanced method to add several funnels all at once
 
 #### Page Source Funnels List
+
 1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Funnels
 2. Scroll to the bottom of the page and set the funnels per page to the maximum number
 3. View the page source (right click > view page source or ctrl+u in Chrome-based browsers)
