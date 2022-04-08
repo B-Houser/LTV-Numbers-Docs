@@ -12,7 +12,7 @@ Webhooks pulls your sales data in real time as it comes in and should be set up 
 7. Click on the "Settings" tab in the upper right
 8. Scroll down to the "Webhooks" section and click "Manage Your Funnel Webhooks"
 9. Click the "+ New Webhook" button
-10. Enter the following information:
+10. Enter the following information
   : URL: paste your webhook URL that you copied earlier
   : Adapter: "json"
 11. Click "Create Funnel Webhook" to create a webhook for this funnel
