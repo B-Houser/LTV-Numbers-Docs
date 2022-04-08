@@ -5,6 +5,5 @@
 3. Log into your Keap account if you're not already logged in
 4. Select your Keap account
 5. Click "Allow"
-6. Click "Sync Data"
-
-The above initiates the data syncing process and may take some time to complete.
+6. Click "Sync Data" to initiate the data syncing process
+  - Note: this process may take some time to complete
