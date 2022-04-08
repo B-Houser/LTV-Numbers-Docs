@@ -1,6 +1,6 @@
 # Clickfunnels Data Sync Procedure
 
-## 1. Webhook Setup 
+## 1. Set Up Webhooks
 
 Webhooks pulls your sales data in real time as it comes in and should be set up first before importing historical sales data to avoid gaps in your data
 
@@ -43,7 +43,7 @@ After setting up webhooks to pull in real time sales data, you can import your p
 - Note: this process may take some time
 
 
-## 3. Add Funnels To LTV Numbers
+## 3. Add Funnels
 
 To finalize the connection between LTV Numbers and your funnels, you'll need to add them in LTV Numbers, individually or in a batch
 
