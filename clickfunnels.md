@@ -12,9 +12,9 @@ Webhooks pulls your sales data in real time as it comes in and should be set up 
 7. Click on the "Settings" tab in the upper right
 8. Scroll down to the "Webhooks" section and click "Manage Your Funnel Webhooks"
 9. Click the "+ New Webhook" button
-10. Enter the following information
-  : URL: paste your webhook URL that you copied earlier
-  : Adapter: "json"
+10. Enter the following information:
+  > URL: paste your webhook URL that you copied earlier
+  > Adapter: "json"
 11. Click "Create Funnel Webhook" to create a webhook for this funnel
 12. Repeat steps 5-11 for each funnel you want to track
 
@@ -25,10 +25,10 @@ After setting up webhooks to pull in real time sales data, you can import your p
 1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Sales
 2. In the "Showing Sales For" date selector, choose "All Time"
 3. Click the "Download Purchases" button. A popup with a progress bar will appear, indicating that Clickfunnels is preparing your historical sales data as a CSV file.
-  - Note: this process may take some time.
+  > Note: this process may take some time.
 4. To download your historical sales data, either:
-  - Wait until the progress bar finishes, then click the "Download" button and save the CSV file to your computer
-  - Check your email for the download link and save the CSV file to your computer
+  > - Wait until the progress bar finishes, then click the "Download" button and save the CSV file to your computer
+  > - Check your email for the download link and save the CSV file to your computer
 
 ### Import Clickfunnels Historical Data Into LTV Numbers
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
