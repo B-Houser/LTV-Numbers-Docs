@@ -1,6 +1,6 @@
 # Clickfunnels Data Sync Procedure
 
-####Table Of Contents
+### Table Of Contents
 
 1. [Set Up Webhooks](https://docs.ltvnumbers.com/clickfunnels#1-set-up-webhooks)
 3. [Historical Sales Data](https://docs.ltvnumbers.com/clickfunnels#2-historical-sales-data)
