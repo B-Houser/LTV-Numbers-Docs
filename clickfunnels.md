@@ -1,8 +1,21 @@
 # Clickfunnels Data Sync Procedure
 
+####Table Of Contents
+1. [Set Up Webhooks](https://docs.ltvnumbers.com/clickfunnels#1-set-up-webhooks)
+3. [Historical Sales Data]()
+  - [Export Historical Sales Data From Clickfunnels](https://docs.ltvnumbers.com/clickfunnels)
+  - [Import Clickfunnels Historical Data Into LTV Numbers](https://docs.ltvnumbers.com/clickfunnels)
+5. [Add Funnels](https://docs.ltvnumbers.com/clickfunnels)
+  - [Add Funnels Individually](https://docs.ltvnumbers.com/clickfunnels)
+  - [Add Funnels As A Batch](https://docs.ltvnumbers.com/clickfunnels)
+    - [Page Source Funnels List](https://docs.ltvnumbers.com/clickfunnels)
+    - [Upload Funnels List](https://docs.ltvnumbers.com/clickfunnels)
+
+
+
 ## 1. Set Up Webhooks
 
-Webhooks pulls your sales data in real time as it comes in and should be set up first before importing historical sales data to avoid gaps in your data
+Webhooks pull your sales data in real time and should be set up first before importing historical sales data to avoid gaps in your data
 
 1. [Log into LTV Numbers](https://app.ltvnumbers.com)
 2. In LTV Numbers’ side navigation bar, go to the "Settings" tab 
@@ -22,7 +35,7 @@ Webhooks pulls your sales data in real time as it comes in and should be set up 
 
 ## 2. Historical Sales Data
 
-After setting up webhooks to pull in real time sales data, you can import your past sales
+After setting up webhooks to pull in real time sales data, import your past sales for a complete picture of your data
 
 ### Export Historical Sales Data From Clickfunnels
 
