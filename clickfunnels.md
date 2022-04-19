@@ -12,8 +12,6 @@
         - [Page Source Funnels List](https://docs.ltvnumbers.com/clickfunnels#page-source-funnels-list)
         - [Upload Funnels List](https://docs.ltvnumbers.com/clickfunnels#upload-funnels-list)
 
-format updated
-
 ---
 
 # 1. Set Up Webhooks
@@ -30,8 +28,8 @@ Webhooks pull your sales data in real time and should be set up first before imp
 8. Scroll down to the "Webhooks" section and click "Manage Your Funnel Webhooks"
 9. Click the "+ New Webhook" button
 10. Enter the following information:
-  - URL: paste your webhook URL that you copied earlier
-  - Adapter: "json"
+    - URL: paste your webhook URL that you copied earlier
+    - Adapter: "json"
 11. Click "Create Funnel Webhook" to create a webhook for this funnel
 12. Repeat steps 5-11 for each funnel you want to track
 
@@ -45,10 +43,10 @@ After setting up webhooks to pull in real time sales data, import your past sale
 1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Sales
 2. In the "Showing Sales For" date selector, choose "All Time"
 3. Click the "Download Purchases" button. A popup with a progress bar will appear, indicating that Clickfunnels is preparing your historical sales data as a CSV file.
-  - Note: this process may take some time to complete
+    - Note: this process may take some time to complete
 4. To download your historical sales data, either:
-  - Wait until the progress bar finishes, then click the "Download" button and save the CSV file to your computer
-  - Check your email for the download link and save the CSV file to your computer
+    - Wait until the progress bar finishes, then click the "Download" button and save the CSV file to your computer
+    - Check your email for the download link and save the CSV file to your computer
 
 ### Import Clickfunnels Historical Data Into LTV Numbers
 
@@ -56,7 +54,7 @@ After setting up webhooks to pull in real time sales data, import your past sale
 2. Click the "Choose File" button
 3. Select the historical sales data CSV from the previous section and click the "Next" button
 4. In the "Choose Format" dropdown, select "Clickfunnels Sales CSV" and click the "Next" button to begin the ingest process
-- Note: this process may take some time to complete
+    - Note: this process may take some time to complete
 
 
 # 3. Add Funnels
@@ -70,7 +68,7 @@ Use this simple method do add a few funnels, one at a time
 1. In LTV Numbers’ side navigation bar, go to the "Settings" tab
 2. Click the "Add Funnel" button in the "Clickfunnels Integrations" section
 3. Enter the "Funnel Name" and "Funnel URL" for each funnel, both of which can be found in the funnel's Settings tab
-  - The "Funnel Name" can be found in the "NAME" field and the "Funnel URL" can be found in the "Share This Funnel URL" field
+    - The "Funnel Name" can be found in the "NAME" field and the "Funnel URL" can be found in the "Share This Funnel URL" field
  4. Repeat this process for each funnel 
 
 
@@ -84,7 +82,7 @@ Use this advanced method to add several funnels all at once
 2. Scroll to the bottom of the page and set the funnels per page to the maximum number
 3. View the page source (right click > view page source or ctrl+u in Chrome-based browsers)
 4. Copy the entire page source (ctrl+a, ctrl+c)
-  - Note: The page source contains a list of your funnels displayed on this page
+    - Note: The page source contains a list of your funnels displayed on this page
 5. Paste the page source into a plain text editor such as Notepad or Visual Studio Code
 6. Save the page source funnel list to your computer as an .html file
 7. Repeat the above steps for each page of funnels in the "Funnels" page of your Clickfunnels account
@@ -93,5 +91,5 @@ Use this advanced method to add several funnels all at once
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
 3. Select your page source funnel list html file and click the "Next" button
-  - Note: You can multiselect all page source funnel list html files by ctrl+click-ing or clicking and dragging to highlight multiple files
+    - Note: You can multiselect all page source funnel list html files by ctrl+click-ing or clicking and dragging to highlight multiple files
 4. In the "Choose Format" dropdown, select "Clickfunnels Funnels HTML" and click the "Next" button to begin the ingest process
