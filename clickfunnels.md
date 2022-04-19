@@ -16,7 +16,7 @@ format updated
 
 ---
 
-## 1. Set Up Webhooks
+# 1. Set Up Webhooks
 
 Webhooks pull your sales data in real time and should be set up first before importing historical sales data to avoid gaps in your data
 
@@ -36,7 +36,7 @@ Webhooks pull your sales data in real time and should be set up first before imp
 12. Repeat steps 5-11 for each funnel you want to track
 
 
-## 2. Historical Sales Data
+# 2. Historical Sales Data
 
 After setting up webhooks to pull in real time sales data, import your past sales for a complete picture of your data
 
@@ -59,7 +59,7 @@ After setting up webhooks to pull in real time sales data, import your past sale
 - Note: this process may take some time to complete
 
 
-## 3. Add Funnels
+# 3. Add Funnels
 
 To finalize the connection between LTV Numbers and your funnels, you'll need to add them in LTV Numbers, individually or in a batch
 
