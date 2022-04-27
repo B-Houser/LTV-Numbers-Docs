@@ -1,5 +1,11 @@
-### Data Syncing Instructions
-- [Keap](https://b-houser.github.io/LTV-Numbers-Docs/keap)
+### Data Syncing Procedures
+- [Keap](https://docs.ltvnumbers.com/keap)
+- [Shopify](https://docs.ltvnumbers.com/shopify)
+- [Clickfunnels](https://docs.ltvnumbers.com/clickfunnels)
+- [Stripe](https://docs.ltvnumbers.com/stripe)
+- [ClickBank](https://docs.ltvnumbers.com/clickbank)
+- [SamCart](https://docs.ltvnumbers.com/samcart)
+- [ThriveCart](https://docs.ltvnumbers.com/thrivecart)
 
 ---
 
