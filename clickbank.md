@@ -6,7 +6,7 @@
 3. [Set Up Webhooks](https://docs.ltvnumbers.com/clickbank#2-set-up-webhooks)
 4. [Historical Sales Data](https://docs.ltvnumbers.com/clickbank#3-historical-sales-data)
     - [Export Historical Sales Data From ClickBank](https://docs.ltvnumbers.com/clickbank#export-historical-sales-data-from-clickbank)
-    - [Import Historical ClickBank Data Into LTV Numbers](https://docs.ltvnumbers.com/clickbank#import-historical-clickbank-data-into-ltv-numbers)
+    - [Import ClickBank Historical Data Into LTV Numbers](https://docs.ltvnumbers.com/clickbank#import-clickbank-historical-data-into-ltv-numbers)
 
 ---
 
