@@ -2,15 +2,11 @@
 
 ### Table Of Contents
 
-1. [Set Up Webhooks](https://docs.ltvnumbers.com/clickfunnels#1-set-up-webhooks)
-3. [Historical Sales Data](https://docs.ltvnumbers.com/clickfunnels#2-historical-sales-data)
-    - [Export Historical Sales Data From ClickBank](https://docs.ltvnumbers.com/clickfunnels#export-historical-sales-data-from-clickfunnels)
-    - [Import ClickBank Historical Data Into LTV Numbers](https://docs.ltvnumbers.com/clickfunnels#import-clickfunnels-historical-data-into-ltv-numbers)
-5. [Add Funnels](https://docs.ltvnumbers.com/clickfunnels#3-add-funnels)
-    - [Add Funnels Individually](https://docs.ltvnumbers.com/clickfunnels#add-funnels-individually)
-    - [Add Funnels As A Batch](https://docs.ltvnumbers.com/clickfunnels#add-funnels-as-a-batch)
-        - [Page Source Funnels List](https://docs.ltvnumbers.com/clickfunnels#page-source-funnels-list)
-        - [Upload Funnels List](https://docs.ltvnumbers.com/clickfunnels#upload-funnels-list)
+1. [Webhook Secret Key](https://docs.ltvnumbers.com/clickbank#webhook-secret-key)
+3. [Set Up Webhooks](https://docs.ltvnumbers.com/clickbank#set-up-webhooks)
+4. [Historical Sales Data](https://docs.ltvnumbers.com/clickbank#historical-sales-data)
+    - [Export Historical Sales Data From ClickBank](https://docs.ltvnumbers.com/clickbank#export-historical-sales-data-from-clickbank)
+    - [Import Historical ClickBank Data Into LTV Numbers](https://docs.ltvnumbers.com/clickbank#import-historical-clickbank-data-into-ltv-numbers)
 
 ---
 
@@ -41,7 +37,7 @@ Webhooks pull your sales data in real time and should be set up first before imp
 11. Click the "Test IPN" button to verify the webhook
 12. Once verified, click the Save Changes button
 
-# 2. Historical Sales Data
+# 3. Historical Sales Data
 
 After setting up webhooks to pull in real time sales data, import your past sales for a complete picture of your data. Note: due to Clickbank's exporting limitations, you may have to subdivide your data and export it in multiple batches. The goal here is to establish a good analysis baseline with at least a year of data. (Older data doesn't necessarily reflect the current state of the business.)
 
