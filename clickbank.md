@@ -2,9 +2,9 @@
 
 ### Table Of Contents
 
-1. [Webhook Secret Key](https://docs.ltvnumbers.com/clickbank#webhook-secret-key)
-3. [Set Up Webhooks](https://docs.ltvnumbers.com/clickbank#set-up-webhooks)
-4. [Historical Sales Data](https://docs.ltvnumbers.com/clickbank#historical-sales-data)
+1. [Webhook Secret Key](https://docs.ltvnumbers.com/clickbank#1-webhook-secret-key)
+3. [Set Up Webhooks](https://docs.ltvnumbers.com/clickbank#2-set-up-webhooks)
+4. [Historical Sales Data](https://docs.ltvnumbers.com/clickbank#3-historical-sales-data)
     - [Export Historical Sales Data From ClickBank](https://docs.ltvnumbers.com/clickbank#export-historical-sales-data-from-clickbank)
     - [Import Historical ClickBank Data Into LTV Numbers](https://docs.ltvnumbers.com/clickbank#import-historical-clickbank-data-into-ltv-numbers)
 
