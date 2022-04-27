@@ -7,7 +7,7 @@
 
 ---
 
-# Integrate With Stripe
+# 1. Integrate With Stripe
 
 Establish the connection between your Stripe account(s) and LTV Numbers
 
@@ -20,7 +20,7 @@ Establish the connection between your Stripe account(s) and LTV Numbers
     - Note: this process only establishes the connection to Stripe; it does not does not initiate the data sync
 9. Repeat the above steps as necessary to connect any additional Stripe accounts
 
-# Stripe Data Sync
+# 2. Stripe Data Sync
 
 IMPORTANT: Read the on-screen documentation carefully and proceed with caution before initiating the data sync 
 
