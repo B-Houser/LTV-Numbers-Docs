@@ -1,8 +1,8 @@
 # Stripe Data Sync Procedure
 
 ### Table Of Contents
-1. [Integrate With Stripe](https://docs.ltvnumbers.com/stripe#integrate-with-stripe)
-2. [Stripe Data Sync](https://docs.ltvnumbers.com/stripe#stripe-data-sync)
+1. [Integrate With Stripe](https://docs.ltvnumbers.com/stripe#1-integrate-with-stripe)
+2. [Stripe Data Sync](https://docs.ltvnumbers.com/stripe#2-stripe-data-sync)
     - [Decide Which Data Type Is Appropriate For Your Business](https://docs.ltvnumbers.com/stripe#decide-which-data-type-is-appropriate-for-your-business)
 
 ---
