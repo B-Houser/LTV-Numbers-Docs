@@ -9,7 +9,7 @@
 
 Install the LTV Numbers Shopify app and sync your data
 
-1. Go to <a href="https://apps.shopify.com/ltv-numbers" target="_blank">apps.shopify.com/ltv-numbers</a> and click the "Add app" button
+1. Go to the <a href="https://apps.shopify.com/ltv-numbers" target="_blank">LTV Numbers Shopify app</a> and click the "Add app" button
 3. If prompted, log into your Shopify account
 4. Select your store from the list in the "Your stores" popup window
     - If you don't see your store in the list, click the "Log in with your shop URL" link at the bottom of the popup window and follow the instructions
