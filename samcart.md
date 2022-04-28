@@ -18,7 +18,7 @@
 
 Webhooks pull your sales data in real time and should be set up first before importing historical sales data to avoid gaps in your data
 
-1. Log into LTV Numbers at <a href="https://app.ltvnumbers.com" target="_blank">app.ltvnumbers.com</a>
+1. <a href="https://app.ltvnumbers.com" target="_blank">Log into LTV Numbers</a>
 2. In LTV Numbers’ side navigation bar, go to the "Settings" tab 
 3. Click the "Copy" button for your Webhook URL in the “SamCart Integrations” section. This will be your webhook URL for all of your funnels
 4. In a separate browser window or tab, log into SamCart at <a href="https://samcart.com/auth/login" target="_blank">app.clickfunnels.com/users/sign_in</a>
