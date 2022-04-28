@@ -19,7 +19,7 @@ Webhooks pull your sales data in real time and should be set up first before imp
 
 1. <a href="https://app.ltvnumbers.com" target="_blank">Log into LTV Numbers</a>
 2. In LTV Numbers’ side navigation bar, go to the "Settings" tab 
-3. Click the "Copy" button for your Webhook URL in the “ThriveCart Integrations” section. You will paste this into ThriveCart at a later step
+3. Click the "Copy" button for your Webhook URL in the “Clickfunnels Integrations” section. You will paste this into ThriveCart at a later step
 4. In a separate browser window or tab, <a href="https://thrivecart.com/login/" target="_blank">log into ThriveCart</a>
 5. Confirm you are in the appropriate ThriveCart dashboard
 6. In ThriveCart's top right navigation bar, click on the Settings gear
