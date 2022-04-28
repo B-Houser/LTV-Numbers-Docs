@@ -18,7 +18,7 @@
 
 Webhooks pull your sales data in real time and should be set up first before importing historical sales data to avoid gaps in your data
 
-1. Log into LTV Numbers at <a href="https://app.ltvnumbers.com" target="_blank">app.ltvnumbers.com</a>
+1. <a href="https://app.ltvnumbers.com" target="_blank">Log into LTV Numbers</a>
 2. In LTV Numbers’ side navigation bar, go to the "Settings" tab 
 3. Click the "Copy" button for your Webhook URL in the “Clickfunnels Integrations” section. This will be your webhook URL for all of your funnels
 4. In a separate browser window or tab, <a href="https://app.clickfunnels.com/users/sign_in" target="_blank">log into Clickfunnels</a>
