@@ -21,7 +21,7 @@ Webhooks pull your sales data in real time and should be set up first before imp
 1. Log into LTV Numbers at <a href="https://app.ltvnumbers.com" target="_blank">app.ltvnumbers.com</a>
 2. In LTV Numbers’ side navigation bar, go to the "Settings" tab 
 3. Click the "Copy" button for your Webhook URL in the “Clickfunnels Integrations” section. This will be your webhook URL for all of your funnels
-4. In a separate browser window or tab, log into Clickfunnels at <a href="https://app.clickfunnels.com/users/sign_in" target="_blank">app.clickfunnels.com/users/sign_in</a>
+4. In a separate browser window or tab, <a href="https://app.clickfunnels.com/users/sign_in" target="_blank">log into Clickfunnels</a>
 6. In Clickfunnels’ top navigation bar, go to Clickfunnels > Funnels
 7. Click on a funnel you want to track to open it
 8. Click on the "Settings" tab in the upper right
