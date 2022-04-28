@@ -28,7 +28,7 @@ Webhooks pull your sales data in real time and should be set up first before imp
 1. Log into LTV Numbers at <a href="https://app.ltvnumbers.com" target="_blank">app.ltvnumbers.com</a>
 2. In LTV Numbers' side navigation bar, go to the "Settings" tab 
 3. Click the "Copy" button for your Webhook URL in the “ClickBank Integrations” section. You will paste this into ClickBank at a later step
-4. In a separate browser window or tab, log into ClickBank at <a href="https://accounts.clickbank.com/login.htm" target="_blank">accounts.clickbank.com/login/htm</a>
+4. In a separate browser window or tab, <a href="https://accounts.clickbank.com/login.htm" target="_blank">log into ClickBank</a>
 6. In ClickBank's top navigation bar, click on Vendor Settings
 7. On the My Site page, scroll down to the Advanced Tools section and click Edit
 8. Paste the LTV Numbers Webhook URL into an empty "Instant Notification URL" field and replace "clickfunnels" with "clickbank"
