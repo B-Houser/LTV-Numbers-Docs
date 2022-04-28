@@ -31,7 +31,7 @@ Webhooks pull your sales data in real time and should be set up first before imp
 4. In a separate browser window or tab, <a href="https://accounts.clickbank.com/login.htm" target="_blank">log into ClickBank</a>
 6. In ClickBank's top navigation bar, click on Vendor Settings
 7. On the My Site page, scroll down to the Advanced Tools section and click Edit
-8. Paste the LTV Numbers Webhook URL into an empty "Instant Notification URL" field and replace "clickfunnels" with "clickbank"
+8. Paste the LTV Numbers Webhook URL into an empty "Instant Notification URL" field and edit the Webhook URL by replacing "clickfunnels" with "clickbank"
     - Note: if your account doesn't have any empty "Instant Notification URL" fields, request another slot from ClickBank support
 10. Select the latest version (currently version 7.0)
 11. Click the "Test IPN" button to verify the webhook
