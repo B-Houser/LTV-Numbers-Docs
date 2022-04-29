@@ -3,13 +3,10 @@
 ### Table Of Contents
 
 1. [Set Up Webhooks](https://docs.ltvnumbers.com/thrivecart#1-set-up-webhooks)
-    - [Create A Rule For Product Purchased](https://docs.ltvnumbers.com/thrivecart#create-a-rule-for-product-purchased)
-    - [Create A Rule For Subscription Charged](https://docs.ltvnumbers.com/thrivecart#create-a-rule-for-subscription-charged)
 2. [Historical Sales Data](https://docs.ltvnumbers.com/thrivecart#2-historical-sales-data)
-    - [Export ThriveCart Order Data](https://docs.ltvnumbers.com/thrivecart#export-thrivecart-order-data)
-    - [Export ThriveCart Recurring Subscriptions Data](https://docs.ltvnumbers.com/thrivecart#export-thrivecart-recurring-subscriptions-data)
-    - [Export ThriveCart Limited Subscriptions Data](https://docs.ltvnumbers.com/thrivecart#export-thrivecart-limited-subscriptions-data)
-    - [Import ThriveCart Historical Data Into LTV Numbers](https://docs.ltvnumbers.com/thrivecart#import-thrivecart-historical-data-into-ltv-numbers)
+    - [Export ThriveCart Transactions](https://docs.ltvnumbers.com/thrivecart#export-thrivecart-transactions)
+    - [Import ThriveCart Transactions Into LTV Numbers](https://docs.ltvnumbers.com/thrivecart#import-thrivecart-transactions-into-ltv-numbers)
+3. [UTM Passthrough Script](https://docs.ltvnumbers.com/thrivecart#3-utm-passthrough-script)
 
 ---
 
@@ -36,11 +33,11 @@ After setting up webhooks to pull in real time sales data, import your past sale
 ### Export ThriveCart Transactions
 
 1. In the middle of ThriveCart’s top navigation bar go to Transactions 
-2. In the date selector dropdown menu, select “All time”
+2. In the date selector dropdown menu, select "All Time"
 3. Ensure "All transactions" is selected in the transaction type dropdown menu 
 4. Click "Download CSV" at the bottom of the page and save the file to your computer
 
-### Import ThriveCart Historical Data Into LTV Numbers
+### Import ThriveCart Transactions Into LTV Numbers
 
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
