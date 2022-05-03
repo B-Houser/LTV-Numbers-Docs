@@ -1,16 +1,13 @@
-# Clickfunnels Data Sync Procedure
+# **DEPRECATED** Shopify Data Sync Procedure
+
+**DEPRECATED** - This method is no longer supported and should only be used in special cases. For most cases, use the Shopify app method outlined [here](https://docs.ltvnumbers.com/shopify).
 
 ### Table Of Contents
 
-1. [Set Up Webhooks](https://docs.ltvnumbers.com/clickfunnels#1-set-up-webhooks)
-3. [Historical Sales Data](https://docs.ltvnumbers.com/clickfunnels#2-historical-sales-data)
-    - [Export Historical Sales Data From Clickfunnels](https://docs.ltvnumbers.com/clickfunnels#export-historical-sales-data-from-clickfunnels)
-    - [Import Clickfunnels Historical Data Into LTV Numbers](https://docs.ltvnumbers.com/clickfunnels#import-clickfunnels-historical-data-into-ltv-numbers)
-5. [Add Funnels](https://docs.ltvnumbers.com/clickfunnels#3-add-funnels)
-    - [Add Funnels Individually](https://docs.ltvnumbers.com/clickfunnels#add-funnels-individually)
-    - [Add Funnels As A Batch](https://docs.ltvnumbers.com/clickfunnels#add-funnels-as-a-batch)
-        - [Page Source Funnels List](https://docs.ltvnumbers.com/clickfunnels#page-source-funnels-list)
-        - [Upload Funnels List](https://docs.ltvnumbers.com/clickfunnels#upload-funnels-list)
+1. [Set Up Webhooks](https://docs.ltvnumbers.com/shopify-deprecated#1-set-up-webhooks)
+3. [Historical Sales Data](https://docs.ltvnumbers.com/shopify-deprecated#2-historical-sales-data)
+    - [Export Historical Sales Data From Shopify](https://docs.ltvnumbers.com/shopify-deprecated#export-historical-sales-data-from-shopify)
+    - [Import Shopify Historical Data Into LTV Numbers](https://docs.ltvnumbers.com/shopify-deprecated#import-shopify-historical-data-into-ltv-numbers)
 
 ---
 
@@ -20,53 +17,40 @@ Webhooks pull your sales data in real time and should be set up first before imp
 
 1. <a href="https://app.ltvnumbers.com" target="_blank">Log into LTV Numbers</a>
 2. In LTV Numbers’ side navigation bar, go to the "Settings" tab 
-3. Click the "Copy" button for your Webhook URL in the “Clickfunnels Integrations” section. This will be your webhook URL for all of your funnels
-4. In a separate browser window or tab, <a href="https://app.clickfunnels.com/users/sign_in" target="_blank">log into Clickfunnels</a>
-6. In Clickfunnels’ top navigation bar, go to Clickfunnels > Funnels
-7. Click on a funnel you want to track to open it
-8. Click on the "Settings" tab in the upper right
-9. Scroll down to the "Webhooks" section and click "Manage Your Funnel Webhooks"
-10. Click the "+ New Webhook" button
-11. Enter the following information:
-    - URL: paste your webhook URL that you copied earlier
-    - Adapter: "json"
-12. Click "Create Funnel Webhook" to create a webhook for this funnel
-13. Repeat steps 5-11 for each funnel you want to track
+3. Click the "Copy" button for your Webhook URL in the “Shopify Integrations” section. You will paste this into Shopify at a later step
+4. In a separate browser window or tab, <a href="https://accounts.shopify.com/store-login" target="_blank">log into Shopify</a>
+    - To log in as a Shopify Partner, <a href="https://partners.shopify.com/organizations" target="_blank">log in to your Shopify Partner account</a>, then click "Log In" next to the appropriate Shopify store 
+        - Note: Your partner account will need all permissions except for Online Store permissions, Manage locations, View Shopify Payments payouts, and View billing details
+6. In Shopify's side navigation bar, go to Settings
+7. Click on Notifications and scroll to the Webhooks section
+8. Click the "Create Webhook" button and configure each field as follows:
+    - Event: "Order payment"
+    - Format: "JSON"
+    - URL: Paste the LTV Numbers Webhook URL and edit the Webhook URL by replacing "clickfunnels" with "shopify"
+    - Webhook API version: select the (Latest) version (i.e. "yyyy-mm (Latest)")
+10. Click the "Save" button
+11. Repeat steps 7 - 10 for Event: "Refund create"
 
 
 # 2. Historical Sales Data
 
 After setting up webhooks to pull in real time sales data, import your past sales for a complete picture of your data
 
-### Export Historical Sales Data From Clickfunnels
+### Export Historical Sales Data From Shopify
 
-1. In Clickfunnels’ top navigation bar, go to Clickfunnels > Sales
-2. In the "Showing Sales For" date selector, choose "All Time"
-3. Click the "Download Purchases" button. A popup with a progress bar will appear, indicating that Clickfunnels is preparing your historical sales data as a CSV file.
-    - Note: this process may take some time to complete
-4. To download your historical sales data, either:
-    - Wait until the progress bar finishes, then click the "Download" button and save the CSV file to your computer
-    - Check your email for the download link and save the CSV file to your computer
+1. From your Shopify home dashboard, go to Analytics then Reports in the left menu
+2. Click the "Sales by product" report in the Sales section
+3. Select a date range that contains the historial sales data you with to export
+    - Note: we recommend at least a year of historical data to establish a good analysis baseline. Older data doesn't necessarily reflect the current state of the business.
+4. Click the Edit Columns dropdown and select all columns
+5. At the top right, click Export > Export to generate your historical sales data CSV
+6. When your file is ready, click the “Download” button
+7. Save the file to your computer
 
-### Import Clickfunnels Historical Data Into LTV Numbers
+### Import Shopify Historical Data Into LTV Numbers
 
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
 3. Select the historical sales data CSV from the previous section and click the "Next" button
-4. In the "Choose Format" dropdown, select "Clickfunnels Sales CSV" and click the "Next" button to begin the ingest process
+4. In the "Choose Format" dropdown, select "Shopify Orders CSV" and click the "Next" button to begin the ingest process
     - Note: this process may take some time to complete
-
-
-# 3. Add Funnels
-
-To finalize the connection between LTV Numbers and your funnels, you'll need to add them in LTV Numbers, individually or in a batch
-
-### Add Funnels Individually
-
-Use this simple method do add a few funnels, one at a time
-
-1. In LTV Numbers’ side navigation bar, go to the "Settings" tab
-2. Click the "Add Funnel" button in the "Clickfunnels Integrations" section
-3. Enter the "Funnel Name" and "Funnel URL" for each funnel, both of which can be found in the funnel's Settings tab
-    - The "Funnel Name" can be found in the "NAME" field and the "Funnel URL" can be found in the "Share This Funnel URL" field
- 4. Repeat this process for each funnel
