@@ -10,6 +10,7 @@
 Sync your Keap data via the Keap integration
 
 !(https://youtu.be/A1uFAGfSMHo)
+
 !(https://youtube.com/watch?v=A1uFAGfSMHo)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A1uFAGfSMHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
