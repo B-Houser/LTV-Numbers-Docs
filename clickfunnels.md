@@ -53,7 +53,7 @@ After setting up webhooks to pull in real time sales data, import your past sale
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
 3. Select the historical sales data CSV from the previous section and click the "Next" button
-4. In the "Choose Format" dropdown, select "Clickfunnels Sales CSV" and click the "Next" button to begin the ingest process
+4. In the "Choose Format" dropdown, select "Clickfunnels Sales CSV" and click the "Next" button then the "Upload" button to begin the ingest process
     - Note: this process may take some time to complete
 
 
@@ -92,4 +92,4 @@ Use this advanced method to add several funnels all at once
 2. Click the "Choose File" button
 3. Select your page source funnel list html file and click the "Next" button
     - Note: You can multiselect all page source funnel list html files by ctrl+click-ing or clicking and dragging to highlight multiple files
-4. In the "Choose Format" dropdown, select "Clickfunnels Funnels HTML" and click the "Next" button to begin the ingest process
+4. In the "Choose Format" dropdown, select "Clickfunnels Funnels HTML" and click the "Next" button then the "Upload" button to begin the ingest process
