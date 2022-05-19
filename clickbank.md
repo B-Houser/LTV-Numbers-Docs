@@ -55,5 +55,5 @@ After setting up webhooks to pull in real time sales data, import your past sale
 2. Click the "Choose File" button
 3. Select the historical sales data CSV from the previous section and click the "Next" button
     - Note: if you have multiple sales record CSV files, you can multiselect them to upload them all at the same time. Otherwise, repeat this process for each file.
-5. In the "Choose Format" dropdown, select "ClickBank Sales CSV" and click the "Next" button to begin the ingest process
+5. In the "Choose Format" dropdown, select "ClickBank Sales CSV" and click the "Next" then the "Upload" button button to begin the ingest process
     - Note: this process may take some time to complete
