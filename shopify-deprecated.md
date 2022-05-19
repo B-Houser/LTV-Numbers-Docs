@@ -52,5 +52,5 @@ After setting up webhooks to pull in real time sales data, import your past sale
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
 3. Select the historical sales data CSV from the previous section and click the "Next" button
-4. In the "Choose Format" dropdown, select "Shopify Orders CSV" and click the "Next" button to begin the ingest process
+4. In the "Choose Format" dropdown, select "Shopify Orders CSV" and click the "Next" then the “Upload” button button to begin the ingest process
     - Note: this process may take some time to complete
