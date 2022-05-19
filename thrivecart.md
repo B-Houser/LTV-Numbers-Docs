@@ -42,8 +42,9 @@ After setting up webhooks to pull in real time sales data, import your past sale
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
 3. Select your ThriveCart Transactions CSV file and click the "Next" button
-4. In the "Choose Format" dropdown, select ThriveCart Transactions CSV and click Upload
-5. Repeat this process for each of your exported CSV files, selecting "ThriveCart Recurring Subscriptions CSV" for your ThriveCart Recurring Subscriptions CSV and "ThriveCart Limited Subscriptions CSV" for your ThriveCart Limited Subscriptions CSV
+4. In the "Choose Format" dropdown, select "ThriveCart Transactions CSV"
+5. Click the "Next" button then the “Upload” button to begin the ingest process
+6. Repeat this process for each of your exported CSV files, selecting "ThriveCart Recurring Subscriptions CSV" for your ThriveCart Recurring Subscriptions CSV and "ThriveCart Limited Subscriptions CSV" for your ThriveCart Limited Subscriptions CSV
     - Note: this process may take some time to complete
 
 
