@@ -83,6 +83,7 @@ After setting up webhooks to pull in real time sales data, import your one time 
 1. In LTV Numbers' side menu, click "Upload" to get to the Data Uploader
 2. Click the "Choose File" button
 3. Select your SamCart Orders CSV file and click the "Next" button
-4. In the "Choose Format" dropdown, select the corresponding format of the data file you wish to upload (e.g. select "SamCart Orders CSV" for your exported orders CSV file) and click Upload
-5. Repeat this process for each of your exported CSV files, selecting "SamCart Recurring Subscriptions CSV" for your SamCart Recurring Subscriptions CSV and "SamCart Limited Subscriptions CSV" for your SamCart Limited Subscriptions CSV
+4. In the "Choose Format" dropdown, select the corresponding format of the data file you wish to upload (e.g. select "SamCart Orders CSV" for your exported orders CSV file)
+5. Click the “Next” button then the “Upload” button to begin the ingest process
+6. Repeat this process for each of your exported CSV files, selecting "SamCart Recurring Subscriptions CSV" for your SamCart Recurring Subscriptions CSV and "SamCart Limited Subscriptions CSV" for your SamCart Limited Subscriptions CSV
     - Note: this process may take some time to complete
