@@ -44,7 +44,8 @@ After setting up webhooks to pull in real time sales data, import your past sale
 3. Select your ThriveCart Transactions CSV file and click the "Next" button
 4. In the "Choose Format" dropdown, select "ThriveCart Transactions CSV"
 5. Click the "Next" button then the “Upload” button to begin the ingest process
-6. Repeat this process for each of your exported CSV files, selecting "ThriveCart Recurring Subscriptions CSV" for your ThriveCart Recurring Subscriptions CSV and "ThriveCart Limited Subscriptions CSV" for your ThriveCart Limited Subscriptions CSV
+6. Repeat this process for each of your exported CSV files, selecting "ThriveCart Transactions CSV" for your ThriveCart Transactions
+7.  CSV and "ThriveCart Limited Subscriptions CSV" for your ThriveCart Limited Subscriptions CSV
     - Note: this process may take some time to complete
 
 
