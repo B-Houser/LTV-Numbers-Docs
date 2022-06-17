@@ -55,7 +55,7 @@ Due to limitations with ThriveCart, all past UTM information is lost from the hi
 1. Navigate to the editor of your landing page that sends traffic to one of your ThriveCart checkout pages
     - Note: you can check the CTA link to verify this landing page sends traffic to your ThriveCart checkout page, which should contain yourbusinessname.thrivecart.com/*
 2. Paste the following script into the <body> or <footer> code of the landing page:
-    >`<script src="https://storage.googleapis.com/ltv-numbers-prod/url_parameter_passthrough.js?v=x.x.x" defer></script>`
+    >`<script src="https://storage.googleapis.com/ltv-numbers-prod/url_parameter_passthrough_to_thrivecart.js?v=x.x.x" defer></script>`
     - Note: if necessary, this script can also be placed in the <head> of the page but may cause unintended behavior
 3. Save your landing page
 4. Repeat the steps above for each landing page that sends traffic to your ThriveCart checkout page(s)
