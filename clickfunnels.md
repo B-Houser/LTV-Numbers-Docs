@@ -18,6 +18,8 @@
 
 Webhooks pull your sales data in real time and should be set up first before importing historical sales data to avoid gaps in your data
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlhpsL7QHFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. <a href="https://app.ltvnumbers.com" target="_blank">Log into LTV Numbers</a>
 2. In LTV Numbers’ side navigation bar, go to the "Settings" tab 
 3. Click the "Copy" button for your Webhook URL in the “Clickfunnels Integrations” section. This will be your webhook URL for all of your funnels
@@ -37,6 +39,9 @@ Webhooks pull your sales data in real time and should be set up first before imp
 # 2. Historical Sales Data
 
 After setting up webhooks to pull in real time sales data, import your past sales for a complete picture of your data
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9t8_F4nH2C4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Export Historical Sales Data From Clickfunnels
 
@@ -65,6 +70,8 @@ To finalize the connection between LTV Numbers and your funnels, you'll need to 
 
 Use this simple method do add a few funnels, one at a time
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zl5q0m7Bro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. In LTV Numbers’ side navigation bar, go to the "Settings" tab
 2. Click the "Add Funnel" button in the "Clickfunnels Integrations" section
 3. Enter the "Funnel Name" and "Funnel URL" for each funnel, both of which can be found in the funnel's Settings tab
@@ -75,6 +82,8 @@ Use this simple method do add a few funnels, one at a time
 ### Add Funnels As A Batch
 
 Use this advanced method to add several funnels all at once
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NIu8UvOa_no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Page Source Funnels List
 
